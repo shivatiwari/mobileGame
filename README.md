@@ -1,2 +1,2 @@
 # mobileGame : open in moblie view
-https://shivatiwari.github.io/mobileGame/
+# https://shivatiwari.github.io/mobileGame/
